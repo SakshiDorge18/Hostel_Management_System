@@ -56,6 +56,8 @@ header("location:dashboard.php");
 	<link rel="stylesheet" href="css/fileinput.min.css">
 	<link rel="stylesheet" href="css/awesome-bootstrap-checkbox.css">
 	<link rel="stylesheet" href="css/style.css">
+	
+
 <script type="text/javascript" src="js/jquery-1.11.3-jquery.min.js"></script>
 <script type="text/javascript" src="js/validation.min.js"></script>
 <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
@@ -102,6 +104,13 @@ return true;
 						</div>
 						<div class="text-center text-light" style="color:black;">
 							<a href="forgot-password.php" style="color:black;">Forgot password?</a>
+							<button id="chatbotButton" style="color:blue">Open Chatbot</button>
+    						<button id="closeChatbotButton" style="color:blue">Close Chatbot</button>
+
+<!-- Chatbot iframe (initially hidden) -->
+<iframe id = "chatbotFrame" src='https://webchat.botframework.com/embed/hostelproject-bot?s=ymJeTFfKLko.hQGHMHnsvxMUuW5SQ05DTepj36tOz-zODHpHP1jhjAY'  width="300" height="400" frameborder="0" style="display:none;"></iframe>
+<!-- JavaScript to handle button click -->
+
 						</div>
 					</div>
 				</div>
@@ -122,6 +131,30 @@ return true;
 	<script src="js/fileinput.js"></script>
 	<script src="js/chartData.js"></script>
 	<script src="js/main.js"></script>
+
+	<script>
+        var chatbotButton = document.getElementById('chatbotButton');
+        var closeChatbotButton = document.getElementById('closeChatbotButton');
+        var chatbotFrame = document.getElementById('chatbotFrame');
+
+        chatbotButton.addEventListener('click', function () {
+            // Show the chatbot iframe
+            chatbotFrame.style.display = 'block';
+
+            // Toggle button visibility
+            chatbotButton.style.display = 'none';
+            closeChatbotButton.style.display = 'inline-block';
+        });
+
+        closeChatbotButton.addEventListener('click', function () {
+            // Hide the chatbot iframe
+            chatbotFrame.style.display = 'none';
+
+            // Toggle button visibility
+            chatbotButton.style.display = 'inline-block';
+            closeChatbotButton.style.display = 'none';
+        });
+    </script>
 </body>
 
 </html>

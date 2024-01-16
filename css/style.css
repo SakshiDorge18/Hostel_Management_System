@@ -745,3 +745,32 @@ li {
   height: 100%;
   width: 100%;
 }
+
+#chatbotButton,
+        #closeChatbotButton {
+            background-color: rgb(245, 245, 247);
+            border: none;
+            color: rgb(34, 65, 165);
+            padding: 8px 16px; /* Adjust padding to change button size */
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 12px; /* Adjust font size to change button size */
+            cursor: pointer;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            margin-right: 10px;
+        }
+
+        #chatbotButton:hover,
+        #closeChatbotButton:hover {
+            background-color: rgb(41, 41, 137);
+        }
+
+        #chatbotFrame {
+            width: 300px;
+            height: 400px;
+            border: none;
+            margin: 20px auto;
+            display: none;
+        }
