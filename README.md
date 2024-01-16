@@ -60,7 +60,7 @@ Azure AI Service <br>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
-The Multilingual Content Hub redefines language connectivity by using seamlessly merging generation and linguistic finesse. This task, empowered by means of Azure's sturdy infrastructure, not most effective tackles language barriers however envisions a destiny wherein verbal exchange transcends borders.</p>
+The Hostel Management System with Azure AI Chatbot Integration is a robust solution that leverages Azure's cloud services to address the challenges associated with traditional hostel management systems. By utilizing Azure App Service, MySQL Database, and Azure AI Service, the project ensures a scalable, secure, and user-friendly environment. The incorporation of a Chatbot enhances user support through instant responses to frequently asked questions, ultimately contributing to the efficiency and satisfaction of hostel residents and staff.</p>
 <p align="justify">
 <b>As we finish, the Multilingual Content Hub isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
