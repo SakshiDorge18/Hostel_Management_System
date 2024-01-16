@@ -2,7 +2,7 @@
 <h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Hostel Management System with Azure AI Chatbot Integration.</b></a>
 <br>
 <h2>Project Details</h2>
-<b>Project Demo URL :</b> https://aiwebappazure.azurewebsites.net/ <br>
+<b>Project Demo URL :</b> https://myazureappabc.azurewebsites.net/ <br>
 <b>Demo Video URL :</b> https://drive.google.com/file/d/1bLptg01EM3NtTRZY6j6X_FCmrwf_2TN9/view <br>
 <b>Github Repository URL :</b> https://github.com/AnkeetaGupta/flask-ai-translation.git <br>
 <b>Industry :</b> Lifestyle and Technology<br>
