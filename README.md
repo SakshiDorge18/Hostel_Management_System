@@ -12,7 +12,7 @@ Core Azure Services : <br>
 1. Azure App Service <br>
 2. Azure SQL Database <br> <br>
 Azure AI Service <br>
-1. Azure AI Translator Service
+1. Azure AI Bot Service
 </h3>
 <h2>Problem Statement</h2>
 <p align="justify">Traditional hostel management systems often face challenges in terms of accessibility, scalability, and user engagement. Manual handling of tasks such as room allocation, fee management, and addressing common queries can be time-consuming. The need for an integrated solution that automates these processes and enhances user support prompted the development of this project.</p>
@@ -26,14 +26,12 @@ Azure AI Service <br>
     <li>Azure App Service Hosting</li>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
-<b>Future Enhancements :</b><br>
-<p align="justify">The Multilingual Content Hub isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
+<b>Azure App Service :</b><br><p align="justify"><br>TFacilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
 
-<b>Azure MySQL Dtatabase :</b><br><p align="justify">To store and manage recent search history, the project employs Azure SQL Database. This relational database service ensures data consistency, integrity, and enables efficient querying, making it ideal for tracking and displaying user interactions.</p>
+<b>Azure MySQL Dtatabase :</b><br><p align="justify">Provides a secure and efficient storage solution for hostel data, supporting seamless data retrieval and manipulation.</p>
 <h2>Azure AI Service</h2>
-<b>Azure AI Translator Service :</b><br><br><p align="justify">The core of the translation functionality is powered by Azure AI Translator service. This service employs advanced natural language processing algorithms to provide accurate and contextually relevant translations across a wide array of languages.</p>
+<b>Azure AI Bot Service :</b><br><br><p align="justify">Powers the Chatbot with natural language processing capabilities, allowing it to understand and respond to user queries effectively.</p>
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In the Multilingual Content Hub, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
