@@ -15,9 +15,9 @@ Azure AI Service <br>
 1. Azure AI Translator Service
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">In our increasingly more interconnected global, the need for seamless verbal exchange throughout language boundaries is extra important than ever. The assignment lies in offering a consumer-friendly platform wherein people can without difficulty translate content while maintaining a report in their interactions. The possibility is to create an green, scalable solution that addresses language translation desires and complements consumer revel in with the aid of incorporating recent search records.</p>
+<p align="justify">Traditional hostel management systems often face challenges in terms of accessibility, scalability, and user engagement. Manual handling of tasks such as room allocation, fee management, and addressing common queries can be time-consuming. The need for an integrated solution that automates these processes and enhances user support prompted the development of this project.</p>
 <h2>Project Description</h2>
-<p align="justify">The "Multilingual Content Hub - VOX" is a web application designed to facilitate language translation and maintain a history of person interactions. Users can enter text, and the gadget leverages Azure AI Translator service to provide accurate and contextually relevant translations. The software additionally consists of a characteristic to show recent searches, allowing users to revisit and reuse previous translations easily.</p><br>
+<p align="justify">The Hostel Management System aims to automate and streamline various hostel-related tasks, from student registration to room allocation and fee management. The integration of a Chatbot using Azure AI Services introduces an intelligent and interactive element to the system. Students and staff can interact with the Chatbot to get quick responses to frequently asked questions, reducing the workload on support staff and enhancing overall user satisfaction.</p><br>
 <b>Key Features :</b>
 <ul>
     <li>Seamless Language Translation</li>
