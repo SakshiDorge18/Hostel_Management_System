@@ -27,7 +27,7 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <h2>Core Azure Services</h2>
-<b>Azure App Service :</b><br><p align="justify"><br>TFacilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
+<b>Azure App Service :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
 
 <b>Azure MySQL Dtatabase :</b><br><p align="justify">Provides a secure and efficient storage solution for hostel data, supporting seamless data retrieval and manipulation.</p>
 <h2>Azure AI Service</h2>
