@@ -45,6 +45,7 @@ Azure AI Service <br>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Hostel Management System. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
 <img src="https://github.com/SakshiDorge18/Hostel_Management_System/blob/main/Screenshots/Screenshot%202024-01-16%20182032.png" alt="azure-app-service"></img><br>
+<img src="https://github.com/SakshiDorge18/Hostel_Management_System/blob/main/Screenshots/Screenshot%202024-01-17%20155415.png"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
 <img src="https://github.com/SakshiDorge18/Hostel_Management_System/blob/main/Screenshots/Screenshot%202024-01-16%20182059.png"></img><br>
