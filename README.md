@@ -28,15 +28,15 @@ Azure AI Service <br>
 </ul>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>Facilitates the hosting and deployment of the PHP-based Hostel Management System, ensuring scalability and reliability.</p>
-
 <b>Azure MySQL Dtatabase :</b><br><p align="justify">Provides a secure and efficient storage solution for hostel data, supporting seamless data retrieval and manipulation.</p>
 <h2>Azure AI Service</h2>
 <b>Azure AI Bot Service :</b><br><br><p align="justify">Powers the Chatbot with natural language processing capabilities, allowing it to understand and respond to user queries effectively.</p>
+    
 <h2>Other Azure Technologies / Services</h2>
 <p align="justify">In Hostel Management System, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo.</p>
 
 <b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors the performance and availability of the web application, ensuring optimal user experience..<br>
-<b>Azure DevOps:/b> Used for continuous integration and continuous deployment (CI/CD) to automate the build and deployment processes.</p>
+<b>Azure DevOps:</b> Used for continuous integration and continuous deployment (CI/CD) to automate the build and deployment processes.</p>
 <b>Azure Application Insights :</b><p align="justify">
 <b>User Interaction Insights :</b> Analyzes consumer behaviors, providing distinctive facts on trips and characteristic recognition.<br>
 <b>Azure Security Center:</b> Enhances the overall security posture of the system by providing advanced threat protection and security management.
