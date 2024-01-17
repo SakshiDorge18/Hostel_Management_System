@@ -1,5 +1,5 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Hostel Management System with Azure AI Chatbot Integration.</b></a>
+<h2>Project Title:</h2><b><a href="https://aiwebappazure.azurewebsites.net/">Hostel Management System  with Azure AI Chatbot Integration.</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://myazureappabc.azurewebsites.net/ <br>
