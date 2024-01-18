@@ -39,7 +39,6 @@ $stmt=$mysqli->prepare("SELECT username,email,password,id FROM admin WHERE (user
 	<meta name="author" content="">
 
 	<title>Admin login</title>
-/admin/
 	<link rel="stylesheet" href="/admin/css/font-awesome.min.css">
 	<link rel="stylesheet" href="/admin/css/bootstrap.min.css">
 	<link rel="stylesheet" href="/admin/css/dataTables.bootstrap.min.css">
