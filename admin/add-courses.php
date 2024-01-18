@@ -1,4 +1,4 @@
-<?php
+/admin/<?php
 session_start();
 include('includes/config.php');
 include('includes/checklogin.php');
@@ -28,14 +28,14 @@ echo"<script>alert('Course has been added successfully');</script>";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	<title>Add Courses</title>
-	<link rel="stylesheet" href="css/font-awesome.min.css">
-	<link rel="stylesheet" href="css/bootstrap.min.css">
-	<link rel="stylesheet" href="css/dataTables.bootstrap.min.css">>
-	<link rel="stylesheet" href="css/bootstrap-social.css">
-	<link rel="stylesheet" href="css/bootstrap-select.css">
-	<link rel="stylesheet" href="css/fileinput.min.css">
-	<link rel="stylesheet" href="css/awesome-bootstrap-checkbox.css">
-	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="/admin/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/admin/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/admin/css/dataTables.bootstrap.min.css">>
+	<link rel="stylesheet" href="/admin/css/bootstrap-social.css">
+	<link rel="stylesheet" href="/admin/css/bootstrap-select.css">
+	<link rel="stylesheet" href="/admin/css/fileinput.min.css">
+	<link rel="stylesheet" href="/admin/css/awesome-bootstrap-checkbox.css">
+	<link rel="stylesheet" href="/admin/css/style.css">
 <script type="text/javascript" src="js/jquery-1.11.3-jquery.min.js"></script>
 <script type="text/javascript" src="js/validation.min.js"></script>
 </head>
@@ -107,15 +107,15 @@ echo"<script>alert('Course has been added successfully');</script>";
 			</div>
 		</div>
 	</div>
-	<script src="js/jquery.min.js"></script>
-	<script src="js/bootstrap-select.min.js"></script>
-	<script src="js/bootstrap.min.js"></script>
-	<script src="js/jquery.dataTables.min.js"></script>
-	<script src="js/dataTables.bootstrap.min.js"></script>
-	<script src="js/Chart.min.js"></script>
-	<script src="js/fileinput.js"></script>
-	<script src="js/chartData.js"></script>
-	<script src="js/main.js"></script>
+	<script src="/admin/js/jquery.min.js"></script>
+	<script src="/admin/js/bootstrap-select.min.js"></script>
+	<script src="/admin/js/bootstrap.min.js"></script>
+	<script src="/admin/js/jquery.dataTables.min.js"></script>
+	<script src="/admin/js/dataTables.bootstrap.min.js"></script>
+	<script src="/admin/js/Chart.min.js"></script>
+	<script src="/admin/js/fileinput.js"></script>
+	<script src="/admin/js/chartData.js"></script>
+	<script src="/admin/js/main.js"></script>
 
 </script>
 </body>
